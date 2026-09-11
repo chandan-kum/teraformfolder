@@ -1,5 +1,5 @@
 ### Basic Terraform Commands
-
+alias tf=terraforn (use alias tf instate of terraform)
 ##  Initializes a local Terraform working directory.
 terraform init
 
